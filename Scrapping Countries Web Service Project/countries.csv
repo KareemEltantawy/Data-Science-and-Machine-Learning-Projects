@@ -1,0 +1,251 @@
+id,name,capital,pop,area,lat,long,currency,language
+1,Afghanistan,Kabul,27657145,652230.0,33.0,65.0,Afghan afghani,Pashto
+2,Åland Islands,Mariehamn,28875,1580.0,60.116667,19.9,Euro,Swedish
+3,Albania,Tirana,2886026,28748.0,41.0,20.0,Albanian lek,Albanian
+4,Algeria,Algiers,40400000,2381741.0,28.0,3.0,Algerian dinar,Arabic
+5,American Samoa,Pago Pago,57100,199.0,-14.33333333,-170.0,United State Dollar,English
+6,Andorra,Andorra la Vella,78014,468.0,42.5,1.5,Euro,Catalan
+7,Angola,Luanda,25868000,1246700.0,-12.5,18.5,Angolan kwanza,Portuguese
+8,Anguilla,The Valley,13452,91.0,18.25,-63.16666666,East Caribbean dollar,English
+9,Antarctica,,1000,14000000.0,-74.65,4.48,Australian dollar,English
+10,Antigua and Barbuda,Saint John's,86295,442.0,17.05,-61.8,East Caribbean dollar,English
+11,Argentina,Buenos Aires,43590400,2780400.0,-34.0,-64.0,Argentine peso,Spanish
+12,Armenia,Yerevan,2994400,29743.0,40.0,45.0,Armenian dram,Armenian
+13,Aruba,Oranjestad,107394,180.0,12.5,-69.96666666,Aruban florin,Dutch
+14,Australia,Canberra,24117360,7692024.0,-27.0,133.0,Australian dollar,English
+15,Austria,Vienna,8725931,83871.0,47.33333333,13.33333333,Euro,German
+16,Azerbaijan,Baku,9730500,86600.0,40.5,47.5,Azerbaijani manat,Azerbaijani
+17,Bahamas,Nassau,378040,13943.0,24.25,-76.0,Bahamian dollar,English
+18,Bahrain,Manama,1404900,765.0,26.0,50.55,Bahraini dinar,Arabic
+19,Bangladesh,Dhaka,161006790,147570.0,24.0,90.0,Bangladeshi taka,Bengali
+20,Barbados,Bridgetown,285000,430.0,13.16666666,-59.53333333,Barbadian dollar,English
+21,Belarus,Minsk,9498700,207600.0,53.0,28.0,New Belarusian ruble,Belarusian
+22,Belgium,Brussels,11319511,30528.0,50.83333333,4.0,Euro,Dutch
+23,Belize,Belmopan,370300,22966.0,17.25,-88.75,Belize dollar,English
+24,Benin,Porto-Novo,10653654,112622.0,9.5,2.25,West African CFA franc,French
+25,Bermuda,Hamilton,61954,54.0,32.33333333,-64.75,Bermudian dollar,English
+26,Bhutan,Thimphu,775620,38394.0,27.5,90.5,Bhutanese ngultrum,Dzongkha
+27,Bolivia (Plurinational State of),Sucre,10985059,1098581.0,-17.0,-65.0,Bolivian boliviano,Spanish
+28,"Bonaire, Sint Eustatius and Saba",Kralendijk,17408,294.0,12.15,-68.266667,United States dollar,Dutch
+29,Bosnia and Herzegovina,Sarajevo,3531159,51209.0,44.0,18.0,Bosnia and Herzegovina convertible mark,Bosnian
+30,Botswana,Gaborone,2141206,582000.0,-22.0,24.0,Botswana pula,English
+31,Bouvet Island,,0,49.0,-54.43333333,3.4,Norwegian krone,Norwegian
+32,Brazil,Brasília,206135893,8515767.0,-10.0,-55.0,Brazilian real,Portuguese
+33,British Indian Ocean Territory,Diego Garcia,3000,60.0,-6.0,71.5,United States dollar,English
+34,United States Minor Outlying Islands,,300,,,,United States Dollar,English
+35,Virgin Islands (British),Road Town,28514,151.0,18.431383,-64.62305,[D],English
+36,Virgin Islands (U.S.),Charlotte Amalie,114743,346.36,18.34,-64.93,United States dollar,English
+37,Brunei Darussalam,Bandar Seri Begawan,411900,5765.0,4.5,114.66666666,Brunei dollar,Malay
+38,Bulgaria,Sofia,7153784,110879.0,43.0,25.0,Bulgarian lev,Bulgarian
+39,Burkina Faso,Ouagadougou,19034397,272967.0,13.0,-2.0,West African CFA franc,French
+40,Burundi,Bujumbura,10114505,27834.0,-3.5,30.0,Burundian franc,French
+41,Cambodia,Phnom Penh,15626444,181035.0,13.0,105.0,Cambodian riel,Khmer
+42,Cameroon,Yaoundé,22709892,475442.0,6.0,12.0,Central African CFA franc,English
+43,Canada,Ottawa,36155487,9984670.0,60.0,-95.0,Canadian dollar,English
+44,Cabo Verde,Praia,531239,4033.0,16.0,-24.0,Cape Verdean escudo,Portuguese
+45,Cayman Islands,George Town,58238,264.0,19.5,-80.5,Cayman Islands dollar,English
+46,Central African Republic,Bangui,4998000,622984.0,7.0,21.0,Central African CFA franc,French
+47,Chad,N'Djamena,14497000,1284000.0,15.0,19.0,Central African CFA franc,French
+48,Chile,Santiago,18191900,756102.0,-30.0,-71.0,Chilean peso,Spanish
+49,China,Beijing,1377422166,9640011.0,35.0,105.0,Chinese yuan,Chinese
+50,Christmas Island,Flying Fish Cove,2072,135.0,-10.5,105.66666666,Australian dollar,English
+51,Cocos (Keeling) Islands,West Island,550,14.0,-12.5,96.83333333,Australian dollar,English
+52,Colombia,Bogotá,48759958,1141748.0,4.0,-72.0,Colombian peso,Spanish
+53,Comoros,Moroni,806153,1862.0,-12.16666666,44.25,Comorian franc,Arabic
+54,Congo,Brazzaville,4741000,342000.0,-1.0,15.0,Central African CFA franc,French
+55,Congo (Democratic Republic of the),Kinshasa,85026000,2344858.0,0.0,25.0,Congolese franc,French
+56,Cook Islands,Avarua,18100,236.0,-21.23333333,-159.76666666,New Zealand dollar,English
+57,Costa Rica,San José,4890379,51100.0,10.0,-84.0,Costa Rican colón,Spanish
+58,Croatia,Zagreb,4190669,56594.0,45.16666666,15.5,Croatian kuna,Croatian
+59,Cuba,Havana,11239004,109884.0,21.5,-80.0,Cuban convertible peso,Spanish
+60,Curaçao,Willemstad,154843,444.0,12.116667,-68.933333,Netherlands Antillean guilder,Dutch
+61,Cyprus,Nicosia,847000,9251.0,35.0,33.0,Euro,Greek (modern)
+62,Czech Republic,Prague,10558524,78865.0,49.75,15.5,Czech koruna,Czech
+63,Denmark,Copenhagen,5717014,43094.0,56.0,10.0,Danish krone,Danish
+64,Djibouti,Djibouti,900000,23200.0,11.5,43.0,Djiboutian franc,French
+65,Dominica,Roseau,71293,751.0,15.41666666,-61.33333333,East Caribbean dollar,English
+66,Dominican Republic,Santo Domingo,10075045,48671.0,19.0,-70.66666666,Dominican peso,Spanish
+67,Ecuador,Quito,16545799,276841.0,-2.0,-77.5,United States dollar,Spanish
+68,Egypt,Cairo,91290000,1002450.0,27.0,30.0,Egyptian pound,Arabic
+69,El Salvador,San Salvador,6520675,21041.0,13.83333333,-88.91666666,United States dollar,Spanish
+70,Equatorial Guinea,Malabo,1222442,28051.0,2.0,10.0,Central African CFA franc,Spanish
+71,Eritrea,Asmara,5352000,117600.0,15.0,39.0,Eritrean nakfa,Tigrinya
+72,Estonia,Tallinn,1315944,45227.0,59.0,26.0,Euro,Estonian
+73,Ethiopia,Addis Ababa,92206005,1104300.0,8.0,38.0,Ethiopian birr,Amharic
+74,Falkland Islands (Malvinas),Stanley,2563,12173.0,-51.75,-59.0,Falkland Islands pound,English
+75,Faroe Islands,Tórshavn,49376,1393.0,62.0,-7.0,Danish krone,Faroese
+76,Fiji,Suva,867000,18272.0,-18.0,175.0,Fijian dollar,English
+77,Finland,Helsinki,5491817,338424.0,64.0,26.0,Euro,Finnish
+78,France,Paris,66710000,640679.0,46.0,2.0,Euro,French
+79,French Guiana,Cayenne,254541,,4.0,-53.0,Euro,French
+80,French Polynesia,Papeetē,271800,4167.0,-15.0,-140.0,CFP franc,French
+81,French Southern Territories,Port-aux-Français,140,7747.0,-49.25,69.167,Euro,French
+82,Gabon,Libreville,1802278,267668.0,-1.0,11.75,Central African CFA franc,French
+83,Gambia,Banjul,1882450,11295.0,13.46666666,-16.56666666,Gambian dalasi,English
+84,Georgia,Tbilisi,3720400,69700.0,42.0,43.5,Georgian Lari,Georgian
+85,Germany,Berlin,81770900,357114.0,51.0,9.0,Euro,German
+86,Ghana,Accra,27670174,238533.0,8.0,-2.0,Ghanaian cedi,English
+87,Gibraltar,Gibraltar,33140,6.0,36.13333333,-5.35,Gibraltar pound,English
+88,Greece,Athens,10858018,131990.0,39.0,22.0,Euro,Greek (modern)
+89,Greenland,Nuuk,55847,2166086.0,72.0,-40.0,Danish krone,Kalaallisut
+90,Grenada,St. George's,103328,344.0,12.11666666,-61.66666666,East Caribbean dollar,English
+91,Guadeloupe,Basse-Terre,400132,,16.25,-61.583333,Euro,French
+92,Guam,Hagåtña,184200,549.0,13.46666666,144.78333333,United States dollar,English
+93,Guatemala,Guatemala City,16176133,108889.0,15.5,-90.25,Guatemalan quetzal,Spanish
+94,Guernsey,St. Peter Port,62999,78.0,49.46666666,-2.58333333,British pound,English
+95,Guinea,Conakry,12947000,245857.0,11.0,-10.0,Guinean franc,French
+96,Guinea-Bissau,Bissau,1547777,36125.0,12.0,-15.0,West African CFA franc,Portuguese
+97,Guyana,Georgetown,746900,214969.0,5.0,-59.0,Guyanese dollar,English
+98,Haiti,Port-au-Prince,11078033,27750.0,19.0,-72.41666666,Haitian gourde,French
+99,Heard Island and McDonald Islands,,0,412.0,-53.1,72.51666666,Australian dollar,English
+100,Holy See,Rome,451,0.44,41.9,12.45,Euro,Latin
+101,Honduras,Tegucigalpa,8576532,112492.0,15.0,-86.5,Honduran lempira,Spanish
+102,Hong Kong,City of Victoria,7324300,1104.0,22.25,114.16666666,Hong Kong dollar,English
+103,Hungary,Budapest,9823000,93028.0,47.0,20.0,Hungarian forint,Hungarian
+104,Iceland,Reykjavík,334300,103000.0,65.0,-18.0,Icelandic króna,Icelandic
+105,India,New Delhi,1295210000,3287590.0,20.0,77.0,Indian rupee,Hindi
+106,Indonesia,Jakarta,258705000,1904569.0,-5.0,120.0,Indonesian rupiah,Indonesian
+107,Côte d'Ivoire,Yamoussoukro,22671331,322463.0,8.0,-5.0,West African CFA franc,French
+108,Iran (Islamic Republic of),Tehran,79369900,1648195.0,32.0,53.0,Iranian rial,Persian (Farsi)
+109,Iraq,Baghdad,37883543,438317.0,33.0,44.0,Iraqi dinar,Arabic
+110,Ireland,Dublin,6378000,70273.0,53.0,-8.0,Euro,Irish
+111,Isle of Man,Douglas,84497,572.0,54.25,-4.5,British pound,English
+112,Israel,Jerusalem,8527400,20770.0,31.5,34.75,Israeli new shekel,Hebrew (modern)
+113,Italy,Rome,60665551,301336.0,42.83333333,12.83333333,Euro,Italian
+114,Jamaica,Kingston,2723246,10991.0,18.25,-77.5,Jamaican dollar,English
+115,Japan,Tokyo,126960000,377930.0,36.0,138.0,Japanese yen,Japanese
+116,Jersey,Saint Helier,100800,116.0,49.25,-2.16666666,British pound,English
+117,Jordan,Amman,9531712,89342.0,31.0,36.0,Jordanian dinar,Arabic
+118,Kazakhstan,Astana,17753200,2724900.0,48.0,68.0,Kazakhstani tenge,Kazakh
+119,Kenya,Nairobi,47251000,580367.0,1.0,38.0,Kenyan shilling,English
+120,Kiribati,South Tarawa,113400,811.0,1.41666666,173.0,Australian dollar,English
+121,Kuwait,Kuwait City,4183658,17818.0,29.5,45.75,Kuwaiti dinar,Arabic
+122,Kyrgyzstan,Bishkek,6047800,199951.0,41.0,75.0,Kyrgyzstani som,Kyrgyz
+123,Lao People's Democratic Republic,Vientiane,6492400,236800.0,18.0,105.0,Lao kip,Lao
+124,Latvia,Riga,1961600,64559.0,57.0,25.0,Euro,Latvian
+125,Lebanon,Beirut,5988000,10452.0,33.83333333,35.83333333,Lebanese pound,Arabic
+126,Lesotho,Maseru,1894194,30355.0,-29.5,28.5,Lesotho loti,English
+127,Liberia,Monrovia,4615000,111369.0,6.5,-9.5,Liberian dollar,English
+128,Libya,Tripoli,6385000,1759540.0,25.0,17.0,Libyan dinar,Arabic
+129,Liechtenstein,Vaduz,37623,160.0,47.26666666,9.53333333,Swiss franc,German
+130,Lithuania,Vilnius,2872294,65300.0,56.0,24.0,Euro,Lithuanian
+131,Luxembourg,Luxembourg,576200,2586.0,49.75,6.16666666,Euro,French
+132,Macao,,649100,30.0,22.16666666,113.55,Macanese pataca,Chinese
+133,Macedonia (the former Yugoslav Republic of),Skopje,2058539,25713.0,41.83333333,22.0,Macedonian denar,Macedonian
+134,Madagascar,Antananarivo,22434363,587041.0,-20.0,47.0,Malagasy ariary,French
+135,Malawi,Lilongwe,16832910,118484.0,-13.5,34.0,Malawian kwacha,English
+136,Malaysia,Kuala Lumpur,31405416,330803.0,2.5,112.5,Malaysian ringgit,Malaysian
+137,Maldives,Malé,344023,300.0,3.25,73.0,Maldivian rufiyaa,Divehi
+138,Mali,Bamako,18135000,1240192.0,17.0,-4.0,West African CFA franc,French
+139,Malta,Valletta,425384,316.0,35.83333333,14.58333333,Euro,Maltese
+140,Marshall Islands,Majuro,54880,181.0,9.0,168.0,United States dollar,English
+141,Martinique,Fort-de-France,378243,,14.666667,-61.0,Euro,French
+142,Mauritania,Nouakchott,3718678,1030700.0,20.0,-12.0,Mauritanian ouguiya,Arabic
+143,Mauritius,Port Louis,1262879,2040.0,-20.28333333,57.55,Mauritian rupee,English
+144,Mayotte,Mamoudzou,226915,,-12.83333333,45.16666666,Euro,French
+145,Mexico,Mexico City,122273473,1964375.0,23.0,-102.0,Mexican peso,Spanish
+146,Micronesia (Federated States of),Palikir,102800,702.0,6.91666666,158.25,[D],English
+147,Moldova (Republic of),Chișinău,3553100,33846.0,47.0,29.0,Moldovan leu,Romanian
+148,Monaco,Monaco,38400,2.02,43.73333333,7.4,Euro,French
+149,Mongolia,Ulan Bator,3093100,1564110.0,46.0,105.0,Mongolian tögrög,Mongolian
+150,Montenegro,Podgorica,621810,13812.0,42.5,19.3,Euro,Serbian
+151,Montserrat,Plymouth,4922,102.0,16.75,-62.2,East Caribbean dollar,English
+152,Morocco,Rabat,33337529,446550.0,32.0,-5.0,Moroccan dirham,Arabic
+153,Mozambique,Maputo,26423700,801590.0,-18.25,35.0,Mozambican metical,Portuguese
+154,Myanmar,Naypyidaw,51419420,676578.0,22.0,98.0,Burmese kyat,Burmese
+155,Namibia,Windhoek,2324388,825615.0,-22.0,17.0,Namibian dollar,English
+156,Nauru,Yaren,10084,21.0,-0.53333333,166.91666666,Australian dollar,English
+157,Nepal,Kathmandu,28431500,147181.0,28.0,84.0,Nepalese rupee,Nepali
+158,Netherlands,Amsterdam,17019800,41850.0,52.5,5.75,Euro,Dutch
+159,New Caledonia,Nouméa,268767,18575.0,-21.5,165.5,CFP franc,French
+160,New Zealand,Wellington,4697854,270467.0,-41.0,174.0,New Zealand dollar,English
+161,Nicaragua,Managua,6262703,130373.0,13.0,-85.0,Nicaraguan córdoba,Spanish
+162,Niger,Niamey,20715000,1267000.0,16.0,8.0,West African CFA franc,French
+163,Nigeria,Abuja,186988000,923768.0,10.0,8.0,Nigerian naira,English
+164,Niue,Alofi,1470,260.0,-19.03333333,-169.86666666,New Zealand dollar,English
+165,Norfolk Island,Kingston,2302,36.0,-29.03333333,167.95,Australian dollar,English
+166,Korea (Democratic People's Republic of),Pyongyang,25281000,120538.0,40.0,127.0,North Korean won,Korean
+167,Northern Mariana Islands,Saipan,56940,464.0,15.2,145.75,United States dollar,English
+168,Norway,Oslo,5223256,323802.0,62.0,10.0,Norwegian krone,Norwegian
+169,Oman,Muscat,4420133,309500.0,21.0,57.0,Omani rial,Arabic
+170,Pakistan,Islamabad,194125062,881912.0,30.0,70.0,Pakistani rupee,English
+171,Palau,Ngerulmud,17950,459.0,7.5,134.5,[E],English
+172,"Palestine, State of",Ramallah,4682467,,31.9,35.2,Israeli new sheqel,Arabic
+173,Panama,Panama City,3814672,75417.0,9.0,-80.0,Panamanian balboa,Spanish
+174,Papua New Guinea,Port Moresby,8083700,462840.0,-6.0,147.0,Papua New Guinean kina,English
+175,Paraguay,Asunción,6854536,406752.0,-23.0,-58.0,Paraguayan guaraní,Spanish
+176,Peru,Lima,31488700,1285216.0,-10.0,-76.0,Peruvian sol,Spanish
+177,Philippines,Manila,103279800,342353.0,13.0,122.0,Philippine peso,English
+178,Pitcairn,Adamstown,56,47.0,-25.06666666,-130.1,New Zealand dollar,English
+179,Poland,Warsaw,38437239,312679.0,52.0,20.0,Polish złoty,Polish
+180,Portugal,Lisbon,10374822,92090.0,39.5,-8.0,Euro,Portuguese
+181,Puerto Rico,San Juan,3474182,8870.0,18.25,-66.5,United States dollar,Spanish
+182,Qatar,Doha,2587564,11586.0,25.5,51.25,Qatari riyal,Arabic
+183,Republic of Kosovo,Pristina,1733842,10908.0,42.666667,21.166667,Euro,Albanian
+184,Réunion,Saint-Denis,840974,,-21.15,55.5,Euro,French
+185,Romania,Bucharest,19861408,238391.0,46.0,25.0,Romanian leu,Romanian
+186,Russian Federation,Moscow,146599183,17124442.0,60.0,100.0,Russian ruble,Russian
+187,Rwanda,Kigali,11553188,26338.0,-2.0,30.0,Rwandan franc,Kinyarwanda
+188,Saint Barthélemy,Gustavia,9417,21.0,18.5,-63.41666666,Euro,French
+189,"Saint Helena, Ascension and Tristan da Cunha",Jamestown,4255,,-15.95,-5.7,Saint Helena pound,English
+190,Saint Kitts and Nevis,Basseterre,46204,261.0,17.33333333,-62.75,East Caribbean dollar,English
+191,Saint Lucia,Castries,186000,616.0,13.88333333,-60.96666666,East Caribbean dollar,English
+192,Saint Martin (French part),Marigot,36979,53.0,18.08333333,-63.95,Euro,English
+193,Saint Pierre and Miquelon,Saint-Pierre,6069,242.0,46.83333333,-56.33333333,Euro,French
+194,Saint Vincent and the Grenadines,Kingstown,109991,389.0,13.25,-61.2,East Caribbean dollar,English
+195,Samoa,Apia,194899,2842.0,-13.58333333,-172.33333333,Samoan tālā,Samoan
+196,San Marino,City of San Marino,33005,61.0,43.76666666,12.41666666,Euro,Italian
+197,Sao Tome and Principe,São Tomé,187356,964.0,1.0,7.0,São Tomé and Príncipe dobra,Portuguese
+198,Saudi Arabia,Riyadh,32248200,2149690.0,25.0,45.0,Saudi riyal,Arabic
+199,Senegal,Dakar,14799859,196722.0,14.0,-14.0,West African CFA franc,French
+200,Serbia,Belgrade,7076372,88361.0,44.0,21.0,Serbian dinar,Serbian
+201,Seychelles,Victoria,91400,452.0,-4.58333333,55.66666666,Seychellois rupee,French
+202,Sierra Leone,Freetown,7075641,71740.0,8.5,-11.5,Sierra Leonean leone,English
+203,Singapore,Singapore,5535000,710.0,1.36666666,103.8,Brunei dollar,English
+204,Sint Maarten (Dutch part),Philipsburg,38247,34.0,18.033333,-63.05,Netherlands Antillean guilder,Dutch
+205,Slovakia,Bratislava,5426252,49037.0,48.66666666,19.5,Euro,Slovak
+206,Slovenia,Ljubljana,2064188,20273.0,46.11666666,14.81666666,Euro,Slovene
+207,Solomon Islands,Honiara,642000,28896.0,-8.0,159.0,Solomon Islands dollar,English
+208,Somalia,Mogadishu,11079000,637657.0,10.0,49.0,Somali shilling,Somali
+209,South Africa,Pretoria,55653654,1221037.0,-29.0,24.0,South African rand,Afrikaans
+210,South Georgia and the South Sandwich Islands,King Edward Point,30,,-54.5,-37.0,British pound,English
+211,Korea (Republic of),Seoul,50801405,100210.0,37.0,127.5,South Korean won,Korean
+212,South Sudan,Juba,12131000,619745.0,7.0,30.0,South Sudanese pound,English
+213,Spain,Madrid,46438422,505992.0,40.0,-4.0,Euro,Spanish
+214,Sri Lanka,Colombo,20966000,65610.0,7.0,81.0,Sri Lankan rupee,Sinhalese
+215,Sudan,Khartoum,39598700,1886068.0,15.0,30.0,Sudanese pound,Arabic
+216,Suriname,Paramaribo,541638,163820.0,4.0,-56.0,Surinamese dollar,Dutch
+217,Svalbard and Jan Mayen,Longyearbyen,2562,,78.0,20.0,Norwegian krone,Norwegian
+218,Swaziland,Lobamba,1132657,17364.0,-26.5,31.5,Swazi lilangeni,English
+219,Sweden,Stockholm,9894888,450295.0,62.0,15.0,Swedish krona,Swedish
+220,Switzerland,Bern,8341600,41284.0,47.0,8.0,Swiss franc,German
+221,Syrian Arab Republic,Damascus,18564000,185180.0,35.0,38.0,Syrian pound,Arabic
+222,Taiwan,Taipei,23503349,36193.0,23.5,121.0,New Taiwan dollar,Chinese
+223,Tajikistan,Dushanbe,8593600,143100.0,39.0,71.0,Tajikistani somoni,Tajik
+224,"Tanzania, United Republic of",Dodoma,55155000,945087.0,-6.0,35.0,Tanzanian shilling,Swahili
+225,Thailand,Bangkok,65327652,513120.0,15.0,100.0,Thai baht,Thai
+226,Timor-Leste,Dili,1167242,14874.0,-8.83333333,125.91666666,United States dollar,Portuguese
+227,Togo,Lomé,7143000,56785.0,8.0,1.16666666,West African CFA franc,French
+228,Tokelau,Fakaofo,1411,12.0,-9.0,-172.0,New Zealand dollar,English
+229,Tonga,Nuku'alofa,103252,747.0,-20.0,-175.0,Tongan paʻanga,English
+230,Trinidad and Tobago,Port of Spain,1349667,5130.0,11.0,-61.0,Trinidad and Tobago dollar,English
+231,Tunisia,Tunis,11154400,163610.0,34.0,9.0,Tunisian dinar,Arabic
+232,Turkey,Ankara,78741053,783562.0,39.0,35.0,Turkish lira,Turkish
+233,Turkmenistan,Ashgabat,4751120,488100.0,40.0,60.0,Turkmenistan manat,Turkmen
+234,Turks and Caicos Islands,Cockburn Town,31458,948.0,21.75,-71.58333333,United States dollar,English
+235,Tuvalu,Funafuti,10640,26.0,-8.0,178.0,Australian dollar,English
+236,Uganda,Kampala,33860700,241550.0,1.0,32.0,Ugandan shilling,English
+237,Ukraine,Kiev,42692393,603700.0,49.0,32.0,Ukrainian hryvnia,Ukrainian
+238,United Arab Emirates,Abu Dhabi,9856000,83600.0,24.0,54.0,United Arab Emirates dirham,Arabic
+239,United Kingdom of Great Britain and Northern Ireland,London,65110000,242900.0,54.0,-2.0,British pound,English
+240,United States of America,"Washington, D.C.",323947000,9629091.0,38.0,-97.0,United States dollar,English
+241,Uruguay,Montevideo,3480222,181034.0,-33.0,-56.0,Uruguayan peso,Spanish
+242,Uzbekistan,Tashkent,31576400,447400.0,41.0,64.0,Uzbekistani so'm,Uzbek
+243,Vanuatu,Port Vila,277500,12189.0,-16.0,167.0,Vanuatu vatu,Bislama
+244,Venezuela (Bolivarian Republic of),Caracas,31028700,916445.0,8.0,-66.0,Venezuelan bolívar,Spanish
+245,Viet Nam,Hanoi,92700000,331212.0,16.16666666,107.83333333,Vietnamese đồng,Vietnamese
+246,Wallis and Futuna,Mata-Utu,11750,142.0,-13.3,-176.2,CFP franc,French
+247,Western Sahara,El Aaiún,510713,266000.0,24.5,-13.0,Moroccan dirham,Spanish
+248,Yemen,Sana'a,27478000,527968.0,15.0,48.0,Yemeni rial,Arabic
+249,Zambia,Lusaka,15933883,752612.0,-15.0,30.0,Zambian kwacha,English
+250,Zimbabwe,Harare,14240168,390757.0,-20.0,30.0,Botswana pula,English
